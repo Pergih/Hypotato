@@ -1,5 +1,5 @@
 # 🥔 Hypotato
-Explore the trends of global potato production, pricing, and trade. From international statistics to local market observations, this project digs into the root of the potato economy.
+This is a small project about the globan trends of potato, just some data cleaning and displaying mainly with Python.
 
 ## Data Sets
 - [Eurostat](https://ec.europa.eu/eurostat/en/)
@@ -13,13 +13,14 @@ Hypotato explores potato production, pricing, and trade trends across Europe and
 - Trade values
 - Country-level comparisons
 
-
-## Example Plot
+## Example
+- Portugal-specific with extra data
 
 ![Potato Trends on Portugal](images/normalized_portugal_stats.png)
+This is a normalized graph with the max and min of this period of dates.
 
 ## Tools & Technologies
 - Python (pandas, matplotlib, sklearn, sqlite3)
-- Jupyter Notebooks or Python scripts
-- SQLite for relational joins
+- Jupyter Notebooks and Python scripts
+- SQLite
 
