@@ -13,10 +13,11 @@ Hypotato explores potato production, pricing, and trade trends across Europe and
 - Trade values
 - Country-level comparisons
 
-
-## Example Plot
+## Example
+- Portugal-specific with extra data
 
 ![Potato Trends on Portugal](images/normalized_portugal_stats.png)
+This is a normalized graph with the max and min of this period of dates.
 
 ## Tools & Technologies
 - Python (pandas, matplotlib, sklearn, sqlite3)
